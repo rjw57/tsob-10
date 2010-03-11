@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="885.82678"
+   height="623.62207"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="06-cunning-plan.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3735">
+      <stop
+         style="stop-color:#0f2651;stop-opacity:0.5022831"
+         offset="0"
+         id="stop3737" />
+      <stop
+         style="stop-color:#0f2651;stop-opacity:0;"
+         offset="1"
+         id="stop3739" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4111">
+      <stop
+         style="stop-color:#669e85;stop-opacity:1;"
+         offset="0"
+         id="stop4113" />
+      <stop
+         style="stop-color:#53826d;stop-opacity:1"
+         offset="1"
+         id="stop4115" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4103">
+      <stop
+         style="stop-color:#183b7e;stop-opacity:1"
+         offset="0"
+         id="stop4105" />
+      <stop
+         style="stop-color:#0f2651;stop-opacity:1"
+         offset="1"
+         id="stop4107" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2901"
+       inkscape:persp3d-origin="164 : 68.101318 : 1"
+       inkscape:vp_z="328 : 102.15198 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 102.15198 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3758"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3913"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3947"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4073"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4103"
+       id="linearGradient4109"
+       x1="-140"
+       y1="1003.957"
+       x2="900"
+       y2="1012.3622"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4111"
+       id="linearGradient4117"
+       x1="900"
+       y1="432.36218"
+       x2="-20"
+       y2="432.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(-1,1)" />
+    <inkscape:perspective
+       id="perspective6163"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6234"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6305"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter6958"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-.25"
+       y="-.25">
+      <feGaussianBlur
+         id="feGaussianBlur6960"
+         in="SourceAlpha"
+         stdDeviation="3.000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix6962"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.500000 0 " />
+      <feOffset
+         id="feOffset6964"
+         in="bluralpha"
+         dx="4.000000"
+         dy="4.000000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge6966">
+        <feMergeNode
+           id="feMergeNode6968"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode6970"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3735"
+       id="linearGradient3741"
+       x1="980"
+       y1="663.62207"
+       x2="660"
+       y2="123.62207"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="412.49528"
+     inkscape:cy="319.17293"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     borderlayer="true"
+     inkscape:window-width="1278"
+     inkscape:window-height="864"
+     inkscape:window-x="1280"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2816"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="280,500"
+       id="guide3972" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="600,440"
+       id="guide3974" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="400,200"
+       id="guide3976" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="720,400"
+       id="guide3978" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-428.74011)">
+    <rect
+       style="fill:url(#linearGradient3741);fill-opacity:1;stroke:none"
+       id="rect3733"
+       width="340"
+       height="660"
+       x="580"
+       y="-16.37793"
+       transform="translate(0,428.74011)" />
+    <text
+       transform="scale(0.96536055,1.0358824)"
+       id="text3835"
+       y="517.2641"
+       x="20.878326"
+       style="font-size:70.67958832px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#0f2651;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Italic Semi-Expanded"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:70.67958832px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#0f2651;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Italic Semi-Expanded"
+         y="517.2641"
+         x="20.878326"
+         sodipodi:role="line"
+         id="tspan3964">Edinburgh 2010</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       style="font-size:44.83882523px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#669e85;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Italic Semi-Expanded"
+       x="559.53717"
+       y="514.90912"
+       id="text3968"
+       transform="scale(0.96536055,1.0358824)"><tspan
+         id="tspan3970"
+         sodipodi:role="line"
+         x="559.53717"
+         y="514.90912"
+         style="font-size:44.83882523px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#669e85;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Italic Semi-Expanded">our cunning plan</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4153"
+       style="fill:#6600cc;stroke:black;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;-inkscape-font-specification:Bitstream Vera Sans"><flowRegion
+         id="flowRegion4155"><rect
+           id="rect4157"
+           width="75.714287"
+           height="15.714286"
+           x="687.14288"
+           y="238.62207"
+           style="fill:#6600cc" /></flowRegion><flowPara
+         id="flowPara4159" /></flowRoot>    <image
+       y="-181.68306"
+       x="520"
+       id="image6307"
+       height="227.26631"
+       width="340"
+       xlink:href="file:///home/rjw57/Projects/tsob/brochure/assets/sell-out-2008.jpg" />
+    <image
+       y="64.450089"
+       x="520"
+       id="image6236"
+       height="227.91209"
+       width="340"
+       xlink:href="file:///home/rjw57/Projects/tsob/brochure/assets/sell-out-2007.png" />
+    <path
+       transform="translate(0,428.74011)"
+       style="fill:#ff00ff;fill-opacity:0.34246575;stroke:none;display:none"
+       d="m 20,171.62207 540,0 0,352 c -180,60 -340,84 -540,64 l 0,-416 z"
+       id="rect3709"
+       sodipodi:nodetypes="ccccc" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;text-align:justify;line-height:120%;writing-mode:lr;text-anchor:start;fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Semi-Expanded"
+       id="flowRoot3711"><flowRegion
+         id="flowRegion3713"><use
+           x="0"
+           y="0"
+           xlink:href="#rect3709"
+           id="use3715" /></flowRegion><flowPara
+         id="flowPara3719">We learnt that presenting a popular story which appealed to a large section of the typical visitors to the Fringe was a good starting point. We also quickly learnt that having a cast and crew who are all dedicated to promoting the play by handing out vast numbers of flyers and taking time to talk to potential audience members produces incredibly successful results, even on the low budget that the Fringe demands.</flowPara><flowPara
+         id="flowPara3721"></flowPara><flowPara
+         id="flowPara3723">The audience figures we achieved have been much higher than the average for our venues and for the Fringe itself. Our audience figures have continued to improve, and we attribute this to the way in which we advertise on the Royal Mile, handing out flyers and performing comedy to advertise the show. The whole cast and crew get involved in advertising, and feet on the street really works in Edinburgh!</flowPara><flowPara
+         id="flowPara3725"></flowPara><flowPara
+         id="flowPara3727">We also made use of promotions (come dressed as a time-traveller for two pounds off!), and attracted many audience members through the half price hut and other discounts. In previous years we have run stage-fighting workshops, generating a lot of interest in our shows, and our highly-skilled team promise to put on another entertaining series this year!</flowPara><flowPara
+         id="flowPara3729"></flowPara><flowPara
+         id="flowPara3731">Our website, <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3779">www.twoshadesofblue.org.uk</flowSpan>, gathers more visitors from year to year. Our mixed-media advertising included a YouTube trailer last year which attracted over 750 hits. Our chatty and welcoming style brings in more potential audience members, and helps them choose the right show to see.</flowPara></flowRoot>    <text
+       transform="scale(0.96536055,1.0358824)"
+       id="text3744"
+       y="567.56671"
+       x="17.759268"
+       style="font-size:34.01028824000000128px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-expanded;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#669e85;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Light Semi-Expanded"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:34.01028824000000128px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-expanded;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#669e85;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Light Semi-Expanded"
+         y="567.56671"
+         x="17.759268"
+         sodipodi:role="line"
+         id="tspan3746">previously</tspan></text>
+    <path
+       transform="translate(0,428.74011)"
+       style="fill:#0f2651;fill-opacity:0.2557078;stroke:none;display:none"
+       d="m 600,171.62207 260,0 0,282 c -129.52381,7.14286 -165.71429,34 -260,58 l 0,-340 z"
+       id="rect3758"
+       sodipodi:nodetypes="ccccc" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;text-align:justify;line-height:120%;writing-mode:lr;text-anchor:start;fill:#060606;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Semi-Expanded;fill-opacity:1"
+       id="flowRoot3760"><flowRegion
+         id="flowRegion3762"><use
+           x="0"
+           y="0"
+           xlink:href="#rect3758"
+           id="use3764" /></flowRegion><flowPara
+         id="flowPara3773">Having found a winning formula for the shows so far, and learnt a great deal in the process, we would like to keep the essentials.</flowPara><flowPara
+         id="flowPara3775"></flowPara><flowPara
+         id="flowPara3777">The most important thing, in our view, is to have a cast who act well together and work well together, and who enjoy doing both. This year’s company has a good proportion of members who have taken part in previous productions, and who have experience of how to go about performing and selling a show at the Edinburgh Fringe. The group will combine these experienced hands with newer actors and company members, who will bring a fresh air (and new jokes) into this year's productions.  </flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       style="font-size:34.01028824000000128px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-expanded;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#0f2651;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Light Semi-Expanded"
+       x="891.41364"
+       y="567.56671"
+       id="text3768"
+       transform="scale(0.96536055,1.0358824)"><tspan
+         id="tspan3770"
+         sodipodi:role="line"
+         x="891.41364"
+         y="567.56671"
+         style="font-size:34.01028824000000128px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-expanded;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#0f2651;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Light Semi-Expanded">this year</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Watermark" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Background">
+    <g
+       transform="translate(0,-428.74011)"
+       id="g4290">
+      <rect
+         transform="scale(-1,1)"
+         y="412.36218"
+         x="-920"
+         height="40"
+         width="940"
+         id="rect2820"
+         style="fill:url(#linearGradient4117);fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cszcccc"
+         id="path2919"
+         d="m -140,1013.0161 c 160,-0.6539 180.64518,19.3461 320,19.3461 120,0 284.64387,-18.5194 424,-80.00002 136,-60 256,-80 416,-40 l 0,200.00002 -1160,4 0,-103.3461 z"
+         style="fill:url(#linearGradient4109);fill-opacity:1;stroke:none" />
+      <g
+         transform="translate(-6,0)"
+         id="g4081">
+        <g
+           transform="matrix(0.44945779,0,0,0.44945779,634.37219,763.071)"
+           id="layer1-3"
+           inkscape:label="Layer 1">
+          <path
+             style="fill:#337aff;fill-opacity:0.39215686;fill-rule:evenodd;stroke:none"
+             d="m 415,389.15997 -58.57143,167.77364 188,0 -55.85714,-171 L 415,389.15997 z"
+             id="path3271"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             id="path3269"
+             d="m 275,389.15997 -58.57143,167.77364 188,0 -55.85714,-171 L 275,389.15997 z"
+             style="fill:#45bf89;fill-opacity:0.39215686;fill-rule:evenodd;stroke:none" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             id="path2221"
+             d="m 289.32143,356.6479 c -10.05076,22.80548 -17.52807,43.8822 -26.96429,71.78571 36.52572,5.68015 59.82143,5.53571 99.64286,0 -8.98616,-29.67683 -15.64645,-50.94451 -23.92857,-71.60714 -15.89286,-3.27381 -32.92906,-2.95592 -48.75,-0.17857 z"
+             style="fill:#0f2651;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7.88351488;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             id="path3195"
+             d="m 313.02801,353.8417 c -1.553,12.46738 -7.12019,37.18972 -9.12726,67.17514 l 57.10951,6.81853 -22.22336,-70.45814 -25.75889,-3.53553 z"
+             style="fill:#669e85;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+          <path
+             sodipodi:nodetypes="ccc"
+             id="path3199"
+             d="m 361.76787,427.83537 c -26.32849,-6.96724 -80.51248,-9.97016 -100.0051,0.50508 33.27557,4.58573 64.86662,4.38462 100.0051,-0.50508 z"
+             style="fill:#78ab94;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+          <path
+             sodipodi:nodetypes="cc"
+             id="path2223"
+             d="m 360.27774,426.74216 c -33.71235,-6.34935 -63.90187,-6.60188 -88.92331,-2.77792"
+             style="fill:none;stroke:#000000;stroke-width:4.73010874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:7.88351488;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 289.32143,356.6479 c -10.05076,22.80548 -17.52807,43.8822 -26.96429,71.78571 36.52572,5.68015 59.82143,5.53571 99.64286,0 -8.98616,-29.67683 -15.64645,-50.94451 -23.92857,-71.60714 -15.89286,-3.27381 -32.92906,-2.95592 -48.75,-0.17857 z"
+             id="path3197"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             sodipodi:nodetypes="ccccccccccccccc"
+             id="rect3201"
+             d="m 307.59375,421.28125 0,50.78125 c -0.70959,0.0476 -0.44478,1.5 -1.34375,1.5 l 0,69.78125 c -7.28357,1.63135 -16.83855,8.85276 -30.6875,10.3125 -0.83429,1.0081 -0.83429,2.43992 0,3.34375 l 34.40625,0 0.375,0 34.4375,0 c 0.83428,-0.90384 0.83429,-2.33564 0,-3.34375 -13.82823,-1.45757 -23.38458,-8.6728 -30.65625,-10.3125 l 0,-69.78125 c -0.91802,-0.0953 -0.5826,-1.45237 -1.4375,-1.5 l 0,-50.78125 -5.09375,0 z"
+             style="fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             style="fill:#0f2651;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7.88351488;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 429.32143,356.6479 c -10.05076,22.80548 -17.52807,43.8822 -26.96429,71.78571 36.52572,5.68015 59.82143,5.53571 99.64286,0 -8.98616,-29.67683 -15.64645,-50.94451 -23.92857,-71.60714 -15.89286,-3.27381 -32.92906,-2.95592 -48.75,-0.17857 z"
+             id="path3257"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#669e85;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 453.02801,353.8417 c -1.553,12.46738 -7.12019,37.18972 -9.12726,67.17514 l 57.10951,6.81853 -22.22336,-70.45814 -25.75889,-3.53553 z"
+             id="path3259"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#5573ab;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 501.76787,427.83537 c -26.32849,-6.96724 -80.51248,-9.97016 -100.0051,0.50508 33.27557,4.58573 64.86662,4.38462 100.0051,-0.50508 z"
+             id="path3261"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:4.73010874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 500.27774,426.74216 c -33.71235,-6.34935 -63.90187,-6.60188 -88.92331,-2.77792"
+             id="path3263"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             id="path3265"
+             d="m 429.32143,356.6479 c -10.05076,22.80548 -17.52807,43.8822 -26.96429,71.78571 36.52572,5.68015 59.82143,5.53571 99.64286,0 -8.98616,-29.67683 -15.64645,-50.94451 -23.92857,-71.60714 -15.89286,-3.27381 -32.92906,-2.95592 -48.75,-0.17857 z"
+             style="fill:none;stroke:#000000;stroke-width:7.88351488;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             d="m 447.59375,421.28125 0,50.78125 c -0.70959,0.0476 -0.44478,1.5 -1.34375,1.5 l 0,69.78125 c -7.28357,1.63135 -16.83855,8.85276 -30.6875,10.3125 -0.83429,1.0081 -0.83429,2.43992 0,3.34375 l 34.40625,0 0.375,0 34.4375,0 c 0.83428,-0.90384 0.83429,-2.33564 0,-3.34375 -13.82823,-1.45757 -23.38458,-8.6728 -30.65625,-10.3125 l 0,-69.78125 c -0.91802,-0.0953 -0.5826,-1.45237 -1.4375,-1.5 l 0,-50.78125 -5.09375,0 z"
+             id="path3267"
+             sodipodi:nodetypes="ccccccccccccccc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:8.28900719px;font-weight:normal;text-align:end;text-anchor:end;opacity:0.6;fill:#aaccee;fill-opacity:1;stroke:none;-inkscape-font-specification:Andale Mono"
+           x="879.85852"
+           y="1014.8721"
+           id="text3765"
+           transform="scale(1.0000936,0.9999064)"><tspan
+             sodipodi:role="line"
+             id="tspan3767"
+             x="879.85852"
+             y="1014.8721"
+             style="font-weight:normal;fill:#aaccee;fill-opacity:1;stroke:none;-inkscape-font-specification:Andale Mono" /><tspan
+             sodipodi:role="line"
+             x="879.85852"
+             y="1025.2333"
+             style="font-weight:normal;fill:#aaccee;fill-opacity:1;stroke:none;-inkscape-font-specification:Andale Mono"
+             id="tspan3785">e: info@twoshadesofblue.org.uk</tspan><tspan
+             sodipodi:role="line"
+             x="879.85852"
+             y="1035.5946"
+             style="font-weight:normal;fill:#aaccee;fill-opacity:1;stroke:none;-inkscape-font-specification:Andale Mono"
+             id="tspan3781">w: twoshadesofblue.org.uk</tspan><tspan
+             sodipodi:role="line"
+             x="879.85852"
+             y="1045.9558"
+             id="tspan3771"
+             style="font-weight:normal;fill:#aaccee;fill-opacity:1;stroke:none;-inkscape-font-specification:Andale Mono">t: 07975 615554</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Frames" />
+</svg>
